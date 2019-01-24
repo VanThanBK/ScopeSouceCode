@@ -1,0 +1,101 @@
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.MainForm.resources
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.Properties.Resources.resources
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.csproj.GenerateResource.Cache
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.exe
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.pdb
+F:\DATN2016\Scope\Scope\Scope.exe.config
+F:\DATN2016\Scope\Scope\Scope.exe
+F:\DATN2016\Scope\Scope\Scope.pdb
+F:\DATN2016\Scope\Scope\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\VanThan\Downloads\ScopeSouceCode\Scope.exe.config
+C:\Users\VanThan\Downloads\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\VanThan\Downloads\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\VanThan\Downloads\ScopeSouceCode\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\Scope.exe.config
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode333\ScopeSouceCode\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\Scope.exe.config
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\Scope.exe.config
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\Scope.exe
+C:\Users\VanThan\Downloads\ScopeSouceCode\ScopeSouceCode3333\ScopeSouceCode333\ScopeSouceCode\Scope.pdb
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\Scope.exe.config
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\Scope.exe
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode\Scope.pdb
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\Scope.exe.config
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\Scope.exe
+C:\Users\Van Than\Downloads\ScopeSouceCode (1)\ScopeSouceCode_BT\ScopeSouceCode\Scope.pdb
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\Scope.exe.config
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\obj\Debug\Scope.exe
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\obj\Debug\Scope.pdb
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\Scope.exe
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode\Scope.pdb
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\obj\Debug\Scope.csprojResolveAssemblyReference.cache
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\obj\Debug\Scope.MainForm.resources
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\obj\Debug\Scope.csproj.GenerateResource.Cache
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\Scope.exe.config
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\obj\Debug\Scope.exe
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\obj\Debug\Scope.pdb
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\Scope.exe
+C:\Users\Van Than\Desktop\ScopeSouceCode\ScopeSouceCode - Copy\Scope.pdb
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.csprojAssemblyReference.cache
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.MainForm.resources
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.Properties.Resources.resources
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.csproj.GenerateResource.cache
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\Scope.exe.config
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.exe
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\obj\Debug\Scope.pdb
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\Scope.exe
+C:\Users\Than\Downloads\ScopeSouceCode-Copy\ScopeSouceCode - Copy\Scope.pdb
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.csprojAssemblyReference.cache
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.MainForm.resources
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.Properties.Resources.resources
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.csproj.GenerateResource.cache
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.csproj.CoreCompileInputs.cache
+E:\Visual_Projects\ScopeSouceCode\Scope.exe.config
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.exe
+E:\Visual_Projects\ScopeSouceCode\obj\Debug\Scope.pdb
+E:\Visual_Projects\ScopeSouceCode\Scope.exe
+E:\Visual_Projects\ScopeSouceCode\Scope.pdb
